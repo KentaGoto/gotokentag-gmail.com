@@ -9,7 +9,6 @@ import (
 
 func main() {
 	var fp *os.File
-	//fmt.Println(reflect.TypeOf(fp))
 
 	if len(os.Args) != 2 {
 		fmt.Println("The number of arguments specified is incorrect.")
