@@ -2,7 +2,7 @@
 
 ## Usage  
 ```
-$ go build main.go
+$ go run main.go
 ```
 
 ## Example  
