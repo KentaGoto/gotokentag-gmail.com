@@ -2,12 +2,12 @@
 
 ## Usage  
 ```
-$ go run main.go
+$ go run main.go <A text file with the folder name>
 ```
 
 ## Example  
 ```
-D:\tool\Go\make_Folder_from_list>make_Folder_from_list.exe D:\tool\Go\make_Folder_from_list\folder_list.txt
+D:\tool\Go\make_Folder_from_list>go run main.go folder_list.txt
 Error:
 mkdir あｓふぁ\ｆさｄ: The system cannot find the path specified.
 Error:
