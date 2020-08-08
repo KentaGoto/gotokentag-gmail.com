@@ -1,7 +1,7 @@
 # make_Folder_from_list  
 
 ## Description  
-Make folder from text file.
+Make folder from text file.  
 **Note**  
 An error will occur if the Windows folder contains characters that cannot be used.  
 
