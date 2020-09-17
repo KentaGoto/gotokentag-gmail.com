@@ -24,3 +24,6 @@ Done!
 ## Requirements  
 - Windows
 - The folder list is a **\*.txt** file in UTF8 (without BOM)
+
+## License
+MIT
