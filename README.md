@@ -2,6 +2,7 @@
 
 ## Description  
 Create the folder described in the text file.  
+
 **Note**  
 An error will occur if the Windows folder contains characters that cannot be used.  
 
